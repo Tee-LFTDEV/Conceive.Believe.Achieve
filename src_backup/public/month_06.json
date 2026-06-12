@@ -1,0 +1,392 @@
+[
+  {
+    "day": 151,
+    "quote": {
+      "text": "It\u2019s a long road, but it\u2019s worth it. Every climb makes you stronger.",
+      "author": "Cadel Evans",
+      "attribution": "Public Interview / Tour de France Champion"
+    },
+    "mantra": "Worth the climb.",
+    "micro_action": {
+      "task": "Take the stairs instead of the elevator/escalator today.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 152,
+    "quote": {
+      "text": "Never let a good wave go to waste. In life and in surfing, take your chances.",
+      "author": "Layne Beachley",
+      "attribution": "Public Interview / 7-time World Champion"
+    },
+    "mantra": "Take the chance.",
+    "micro_action": {
+      "task": "Say 'Yes' to a new challenge today.",
+      "category": "Resilience"
+    }
+  },
+  {
+    "day": 153,
+    "quote": {
+      "text": "You just have to keep moving forward. No matter what happens, keep paddling.",
+      "author": "Mick Fanning",
+      "attribution": "Public Interview / 3-time World Champion"
+    },
+    "mantra": "Keep paddling.",
+    "micro_action": {
+      "task": "Drink a glass of water after your school day ends.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 154,
+    "quote": {
+      "text": "I had to overcome my own doubts and the noise around me to reach my potential.",
+      "author": "Sally Pearson",
+      "attribution": "Public Interview / Olympic Gold Medalist"
+    },
+    "mantra": "Quiet the noise.",
+    "micro_action": {
+      "task": "Spend 2 minutes sitting in silence to clear your mind.",
+      "category": "Resilience"
+    }
+  },
+  {
+    "day": 155,
+    "quote": {
+      "text": "Turn your disability into your ability. Your perspective is your greatest strength.",
+      "author": "Dylan Alcott",
+      "attribution": "Public Interview / Paralympic & Grand Slam Champion"
+    },
+    "mantra": "Ability is mindset.",
+    "micro_action": {
+      "task": "Help someone with something they find difficult today.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 156,
+    "quote": {
+      "text": "Keep pushing. When your arms are tired, push with your heart.",
+      "author": "Kurt Fearnley",
+      "attribution": "Public Interview / Paralympic Champion"
+    },
+    "mantra": "Push with heart.",
+    "micro_action": {
+      "task": "Do 5 more reps of any exercise today.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 157,
+    "quote": {
+      "text": "Represent your family and your community with pride in everything you do.",
+      "author": "Patty Mills",
+      "attribution": "Public Interview / NBA Star"
+    },
+    "mantra": "Play with pride.",
+    "micro_action": {
+      "task": "Use 'Thank you' to show respect to an official or teacher.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 158,
+    "quote": {
+      "text": "The journey is the reward. Enjoy every step, every win, and every lesson.",
+      "author": "Ash Barty",
+      "attribution": "Public Interview / World No. 1"
+    },
+    "mantra": "Journey is reward.",
+    "micro_action": {
+      "task": "Eat an orange or apple as your snack today.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 159,
+    "quote": {
+      "text": "Stay focused on the ball. If you lose focus, you lose the game.",
+      "author": "Karrie Webb",
+      "attribution": "Public Interview / Golf Legend"
+    },
+    "mantra": "Total focus.",
+    "micro_action": {
+      "task": "Focus 100% on your homework for 20 minutes without a phone.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 160,
+    "quote": {
+      "text": "Softball is a game of failures. You have to be able to handle striking out to hit the home run.",
+      "author": "Stacey Porter",
+      "attribution": "Public Interview / Softball Legend"
+    },
+    "mantra": "Handle the failure.",
+    "micro_action": {
+      "task": "If you miss a target today, try again twice more immediately.",
+      "category": "Resilience"
+    }
+  },
+  {
+    "day": 161,
+    "quote": {
+      "text": "The price of greatness is responsibility.",
+      "author": "Winston Churchill",
+      "attribution": "Public Domain"
+    },
+    "mantra": "I am responsible.",
+    "micro_action": {
+      "task": "Clean up your workspace or room today.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 162,
+    "quote": {
+      "text": "Don't let yesterday take up too much of today.",
+      "author": "Will Rogers",
+      "attribution": "Public Domain"
+    },
+    "mantra": "Today is new.",
+    "micro_action": {
+      "task": "Drink a glass of water before each meal.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 163,
+    "quote": {
+      "text": "If you want to lift yourself up, lift up someone else.",
+      "author": "Booker T. Washington",
+      "attribution": "Public Domain"
+    },
+    "mantra": "Lift others up.",
+    "micro_action": {
+      "task": "Give a teammate a high-five and a 'good job'.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 164,
+    "quote": {
+      "text": "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.",
+      "author": "Vince Lombardi",
+      "attribution": "Public Domain"
+    },
+    "mantra": "Strong will.",
+    "micro_action": {
+      "task": "Practice your hardest skill for 10 minutes.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 165,
+    "quote": {
+      "text": "You may have to fight a battle more than once to win it.",
+      "author": "Margaret Thatcher",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Win the battle.",
+    "micro_action": {
+      "task": "Re-try a task you didn't finish yesterday.",
+      "category": "Resilience"
+    }
+  },
+  {
+    "day": 166,
+    "quote": {
+      "text": "Success is most often achieved by those who don't know that failure is inevitable.",
+      "author": "Coco Chanel",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Success is possible.",
+    "micro_action": {
+      "task": "Eat a healthy piece of fruit with your dinner.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 167,
+    "quote": {
+      "text": "The secret of getting ahead is getting started.",
+      "author": "Mark Twain",
+      "attribution": "Public Domain"
+    },
+    "mantra": "Just start.",
+    "micro_action": {
+      "task": "Begin your training or homework 5 minutes earlier than usual.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 168,
+    "quote": {
+      "text": "Act as if what you do makes a difference. It does.",
+      "author": "William James",
+      "attribution": "Public Domain"
+    },
+    "mantra": "I make a difference.",
+    "micro_action": {
+      "task": "Pick up one piece of litter today.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 169,
+    "quote": {
+      "text": "Whatever you are, be a good one.",
+      "author": "Abraham Lincoln",
+      "attribution": "Public Domain"
+    },
+    "mantra": "Be a good one.",
+    "micro_action": {
+      "task": "Say 'Thank you' to a parent or guardian.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 170,
+    "quote": {
+      "text": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+      "author": "Christian D. Larson",
+      "attribution": "Public Domain"
+    },
+    "mantra": "Greater than obstacles.",
+    "micro_action": {
+      "task": "Drink 2 liters of water today.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 171,
+    "quote": {
+      "text": "Quality is not an act, it is a habit.",
+      "author": "Aristotle (attributed)",
+      "attribution": "Public Domain"
+    },
+    "mantra": "Habits of quality.",
+    "micro_action": {
+      "task": "Organize your sports gear for tomorrow morning.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 172,
+    "quote": {
+      "text": "It always seems impossible until it's done.",
+      "author": "Nelson Mandela",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Get it done.",
+    "micro_action": {
+      "task": "Finish a project or task that is 90% complete.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 173,
+    "quote": {
+      "text": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+      "author": "Robert Louis Stevenson",
+      "attribution": "Public Domain"
+    },
+    "mantra": "Plant the seeds.",
+    "micro_action": {
+      "task": "Do something kind for a sibling or friend.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 174,
+    "quote": {
+      "text": "Start where you are. Use what you have. Do what you can.",
+      "author": "Arthur Ashe",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Start now.",
+    "micro_action": {
+      "task": "Try a training exercise with whatever equipment you have available.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 175,
+    "quote": {
+      "text": "Keep your face always toward the sunshine\u2014and shadows will fall behind you.",
+      "author": "Walt Whitman",
+      "attribution": "Public Domain"
+    },
+    "mantra": "Face the light.",
+    "micro_action": {
+      "task": "Find one positive thing in a difficult situation today.",
+      "category": "Resilience"
+    }
+  },
+  {
+    "day": 176,
+    "quote": {
+      "text": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Create my future.",
+    "micro_action": {
+      "task": "Write down one goal for next month.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 177,
+    "quote": {
+      "text": "Life is 10% what happens to me and 90% of how I react to it.",
+      "author": "Charles Swindoll",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "React with strength.",
+    "micro_action": {
+      "task": "Practice reacting calmly if something goes wrong today.",
+      "category": "Resilience"
+    }
+  },
+  {
+    "day": 178,
+    "quote": {
+      "text": "It's not what you look at that matters, it's what you see.",
+      "author": "Henry David Thoreau",
+      "attribution": "Public Domain"
+    },
+    "mantra": "See the best.",
+    "micro_action": {
+      "task": "Eat a serving of mixed fruit today.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 179,
+    "quote": {
+      "text": "Small deeds done are better than great deeds planned.",
+      "author": "Peter Marshall",
+      "attribution": "Public Domain"
+    },
+    "mantra": "Do the small things.",
+    "micro_action": {
+      "task": "Drink a glass of water before you go to bed.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 180,
+    "quote": {
+      "text": "The difference between try and triumph is just a little umph!",
+      "author": "Marvin Phillips",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Give that extra 'umph'.",
+    "micro_action": {
+      "task": "Celebrate 6 months of daily training for your mind!",
+      "category": "Resilience"
+    }
+  }
+]

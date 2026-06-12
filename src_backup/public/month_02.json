@@ -1,0 +1,392 @@
+[
+  {
+    "day": 31,
+    "quote": {
+      "text": "You got to believe in yourself.",
+      "author": "Cathy Freeman",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Believe and achieve.",
+    "micro_action": {
+      "task": "Drink a glass of water before starting your homework.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 32,
+    "quote": {
+      "text": "I think for me, it was always about the process and not the result.",
+      "author": "Ian Thorpe",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Trust the process.",
+    "micro_action": {
+      "task": "Eat one serving of green vegetables today.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 33,
+    "quote": {
+      "text": "It\u2019s about being the best version of myself.",
+      "author": "Ash Barty",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "My best self.",
+    "micro_action": {
+      "task": "Pack a healthy lunch for tomorrow.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 34,
+    "quote": {
+      "text": "I don't look at my disability as a disadvantage. I look at it as a challenge that I've been able to overcome.",
+      "author": "Kurt Fearnley",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Challenge accepted.",
+    "micro_action": {
+      "task": "Do something kind for a teammate today.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 35,
+    "quote": {
+      "text": "There is no such thing as failure, only feedback.",
+      "author": "Layne Beachley",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Feedback is fuel.",
+    "micro_action": {
+      "task": "Say 'Please' when asking for something today.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 36,
+    "quote": {
+      "text": "You just have to keep moving forward.",
+      "author": "Mick Fanning",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Keep moving.",
+    "micro_action": {
+      "task": "Drink 1.5 liters of water today.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 37,
+    "quote": {
+      "text": "I love being part of a team. It\u2019s what makes it special.",
+      "author": "Sam Kerr",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Better together.",
+    "micro_action": {
+      "task": "Cheer for your teammates during a drill.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 38,
+    "quote": {
+      "text": "It\u2019s about representing where you come from and who you are.",
+      "author": "Patty Mills",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Know your why.",
+    "micro_action": {
+      "task": "Have a piece of fruit with breakfast.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 39,
+    "quote": {
+      "text": "I just focus on my own lane.",
+      "author": "Ariarne Titmus",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "My lane, my race.",
+    "micro_action": {
+      "task": "Write down one thing you want to achieve in training today.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 40,
+    "quote": {
+      "text": "It\u2019s not how you start, it\u2019s how you finish.",
+      "author": "Steve Waugh",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Finish strong.",
+    "micro_action": {
+      "task": "Do 10 minutes of extra practice on your own.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 41,
+    "quote": {
+      "text": "You have to believe you can get anyone out.",
+      "author": "Glenn McGrath",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Confidence is key.",
+    "micro_action": {
+      "task": "Use 'Thank you' every time someone helps you today.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 42,
+    "quote": {
+      "text": "Just go out there and enjoy it.",
+      "author": "Adam Gilchrist",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Play with joy.",
+    "micro_action": {
+      "task": "Drink water instead of juice or soda today.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 43,
+    "quote": {
+      "text": "I never gave up, even when it was hard.",
+      "author": "Sally Pearson",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Never give up.",
+    "micro_action": {
+      "task": "Try a healthy new food today.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 44,
+    "quote": {
+      "text": "I just want to jump as high as I can.",
+      "author": "Nicola Olyslagers",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Aim high.",
+    "micro_action": {
+      "task": "Give a high-five to your opponent after a game or practice.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 45,
+    "quote": {
+      "text": "I'm just a runner, but I hope I can inspire people.",
+      "author": "Peter Bol",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Inspire through action.",
+    "micro_action": {
+      "task": "Drink 2 glasses of water after your workout.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 46,
+    "quote": {
+      "text": "You have to put in the work if you want the results.",
+      "author": "Jessica Hull",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Work for it.",
+    "micro_action": {
+      "task": "Eat an apple or banana as a snack.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 47,
+    "quote": {
+      "text": "Success is more fun when you share it.",
+      "author": "Ellyse Perry",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Share the success.",
+    "micro_action": {
+      "task": "Say something positive to a teammate who is struggling.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 48,
+    "quote": {
+      "text": "Life is short, make it count.",
+      "author": "Dylan Alcott",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Make it count.",
+    "micro_action": {
+      "task": "Say 'Thank you' to the officials or referees today.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 49,
+    "quote": {
+      "text": "I just do what I need to do.",
+      "author": "Kaylee McKeown",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Do the work.",
+    "micro_action": {
+      "task": "Drink water first thing when you wake up.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 50,
+    "quote": {
+      "text": "It\u2019s a long road, but it\u2019s worth it.",
+      "author": "Cadel Evans",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Worth the climb.",
+    "micro_action": {
+      "task": "Have 2 pieces of fruit today.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 51,
+    "quote": {
+      "text": "It's about the comeback, not the setback.",
+      "author": "Geoff Huegill",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "The comeback is greater.",
+    "micro_action": {
+      "task": "Help your parents with a chore at home without being asked.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 52,
+    "quote": {
+      "text": "I just wanted to do my best for the team.",
+      "author": "Susie O'Neill",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Team first, always.",
+    "micro_action": {
+      "task": "Call out a teammate's good play today.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 53,
+    "quote": {
+      "text": "I had to learn to love the sport again.",
+      "author": "Leisel Jones",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Love the game.",
+    "micro_action": {
+      "task": "Drink 1.5 liters of water today.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 54,
+    "quote": {
+      "text": "You have to be tough when things aren't going your way.",
+      "author": "Grant Hackett",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Stay tough.",
+    "micro_action": {
+      "task": "Eat a serving of berries or grapes.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 55,
+    "quote": {
+      "text": "You have to stay calm under pressure.",
+      "author": "Mark Viduka",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Calm and collected.",
+    "micro_action": {
+      "task": "Say 'Please' and 'Thank you' to the shop assistant or server.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 56,
+    "quote": {
+      "text": "You have to take your chances when they come.",
+      "author": "Tim Cahill",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Seize the moment.",
+    "micro_action": {
+      "task": "Drink a glass of water with every snack.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 57,
+    "quote": {
+      "text": "I just kept pedaling.",
+      "author": "Robbie McEwen",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Keep pedaling.",
+    "micro_action": {
+      "task": "Have a salad with your dinner.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 58,
+    "quote": {
+      "text": "I just want to be in the flow.",
+      "author": "Stephanie Gilmore",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Find your flow.",
+    "micro_action": {
+      "task": "Write down three things you are grateful for today.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 59,
+    "quote": {
+      "text": "If you're not failing, you're not growing.",
+      "author": "Layne Beachley",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Fail to grow.",
+    "micro_action": {
+      "task": "Clean up your room or space today.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 60,
+    "quote": {
+      "text": "We\u2019re a team, we win and lose together.",
+      "author": "Ash Barty",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "One team, one goal.",
+    "micro_action": {
+      "task": "Drink 2 liters of water today.",
+      "category": "Hydration"
+    }
+  }
+]

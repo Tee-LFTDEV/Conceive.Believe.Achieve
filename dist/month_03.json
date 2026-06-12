@@ -1,0 +1,392 @@
+[
+  {
+    "day": 61,
+    "quote": {
+      "text": "It is not the critic who counts... The credit belongs to the man who is actually in the arena.",
+      "author": "Theodore Roosevelt",
+      "attribution": "The Man in the Arena (1910)"
+    },
+    "mantra": "I am in the arena.",
+    "micro_action": {
+      "task": "Drink a glass of water before practice.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 62,
+    "quote": {
+      "text": "Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best that you are capable of becoming.",
+      "author": "John Wooden",
+      "attribution": "Widely attributed (Basketball Coach)"
+    },
+    "mantra": "My best is enough.",
+    "micro_action": {
+      "task": "Have a piece of fruit after practice.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 63,
+    "quote": {
+      "text": "Be more concerned with your character than your reputation.",
+      "author": "John Wooden",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Character first.",
+    "micro_action": {
+      "task": "Clean up your gear without being told.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 64,
+    "quote": {
+      "text": "The fight is won or lost far away from witnesses - behind the lines, in the gym, and out there on the road, long before I dance under those lights.",
+      "author": "Muhammad Ali",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Train for the moment.",
+    "micro_action": {
+      "task": "Pack a healthy snack in your bag.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 65,
+    "quote": {
+      "text": "Never let the fear of striking out keep you from playing the game.",
+      "author": "Babe Ruth",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Swing for the fences.",
+    "micro_action": {
+      "task": "Say 'Good game' to your opponent.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 66,
+    "quote": {
+      "text": "The more I practice, the luckier I get.",
+      "author": "Arnold Palmer",
+      "attribution": "Widely attributed (Golf Legend)"
+    },
+    "mantra": "Practice makes luck.",
+    "micro_action": {
+      "task": "Practice your skills for 15 minutes at home.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 67,
+    "quote": {
+      "text": "Focus on the next shot.",
+      "author": "Jack Nicklaus",
+      "attribution": "Widely attributed (Golf Legend)"
+    },
+    "mantra": "Next play.",
+    "micro_action": {
+      "task": "Take 3 deep breaths when you feel stressed.",
+      "category": "Resilience"
+    }
+  },
+  {
+    "day": 68,
+    "quote": {
+      "text": "Winning is fun... But winning is not the point. Wanting to win is the point.",
+      "author": "Pat Summitt",
+      "attribution": "Widely attributed (Basketball Coach)"
+    },
+    "mantra": "The will to win.",
+    "micro_action": {
+      "task": "Drink water instead of a sports drink today.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 69,
+    "quote": {
+      "text": "Finding good players is easy. Getting them to play as a team is another story.",
+      "author": "Casey Stengel",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Play together.",
+    "micro_action": {
+      "task": "Encourage a teammate today.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 70,
+    "quote": {
+      "text": "It ain't over till it's over.",
+      "author": "Yogi Berra",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Play to the whistle.",
+    "micro_action": {
+      "task": "Do your best until the very end of training.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 71,
+    "quote": {
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Marcus Aurelius",
+      "attribution": "Meditations"
+    },
+    "mantra": "The obstacle is the way.",
+    "micro_action": {
+      "task": "Face a challenge today with a smile.",
+      "category": "Resilience"
+    }
+  },
+  {
+    "day": 72,
+    "quote": {
+      "text": "No man is free who is not master of himself.",
+      "author": "Epictetus",
+      "attribution": "Discourses"
+    },
+    "mantra": "I am my own master.",
+    "micro_action": {
+      "task": "Follow your training schedule exactly today.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 73,
+    "quote": {
+      "text": "A life is not important except in the impact it has on other lives.",
+      "author": "Jackie Robinson",
+      "attribution": "I Never Had It Made (1972)"
+    },
+    "mantra": "Make an impact.",
+    "micro_action": {
+      "task": "Help a teammate who is struggling with a drill.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 74,
+    "quote": {
+      "text": "The will to win is not nearly as important as the will to prepare to win.",
+      "author": "Vince Lombardi",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Prepare for victory.",
+    "micro_action": {
+      "task": "Set out your clothes for tomorrow.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 75,
+    "quote": {
+      "text": "Pressure is a privilege.",
+      "author": "Billie Jean King",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Embrace the pressure.",
+    "micro_action": {
+      "task": "Drink a glass of water when you feel tired.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 76,
+    "quote": {
+      "text": "What makes something special is not just what you have to gain, but what you feel there is to lose.",
+      "author": "Andre Agassi",
+      "attribution": "Open (2009)"
+    },
+    "mantra": "Play with heart.",
+    "micro_action": {
+      "task": "Eat a piece of fruit for dessert.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 77,
+    "quote": {
+      "text": "I learned during my career to enjoy suffering.",
+      "author": "Rafael Nadal",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Embrace the grind.",
+    "micro_action": {
+      "task": "Do one extra set of an exercise.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 78,
+    "quote": {
+      "text": "I don't like to lose, but I've learned that it's part of the game.",
+      "author": "Novak Djokovic",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Learn from the loss.",
+    "micro_action": {
+      "task": "Reflect on what you learned from a mistake today.",
+      "category": "Resilience"
+    }
+  },
+  {
+    "day": 79,
+    "quote": {
+      "text": "I smile at obstacles.",
+      "author": "Tiger Woods",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Smile at the challenge.",
+    "micro_action": {
+      "task": "Drink 1.5 liters of water today.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 80,
+    "quote": {
+      "text": "The strength of the team is each individual member. The strength of each member is the team.",
+      "author": "Phil Jackson",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Strength in unity.",
+    "micro_action": {
+      "task": "Thank your teammates for their effort.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 81,
+    "quote": {
+      "text": "I'm not afraid of the pressure, I'm afraid of not having the pressure.",
+      "author": "Cathy Freeman",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Ready for anything.",
+    "micro_action": {
+      "task": "Say 'Good morning' to your coach or teacher.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 82,
+    "quote": {
+      "text": "I want to be able to say I've done everything I could.",
+      "author": "Ian Thorpe",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "No regrets.",
+    "micro_action": {
+      "task": "Give 100% effort in every drill today.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 83,
+    "quote": {
+      "text": "You have to work for it, it doesn't just happen.",
+      "author": "Ash Barty",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Earn it.",
+    "micro_action": {
+      "task": "Eat a healthy breakfast.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 84,
+    "quote": {
+      "text": "I just love scoring goals, but I love winning more.",
+      "author": "Sam Kerr",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Play to win.",
+    "micro_action": {
+      "task": "Drink water with every meal.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 85,
+    "quote": {
+      "text": "Courage is not the absence of fear, but the ability to act in spite of it.",
+      "author": "Layne Beachley",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Act in spite of fear.",
+    "micro_action": {
+      "task": "Try a difficult move today.",
+      "category": "Resilience"
+    }
+  },
+  {
+    "day": 86,
+    "quote": {
+      "text": "You have to stay focused on the goal, no matter how far away it seems.",
+      "author": "Cadel Evans",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Eyes on the prize.",
+    "micro_action": {
+      "task": "Write down your long-term goal.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 87,
+    "quote": {
+      "text": "Resilience is about getting back up when you're knocked down.",
+      "author": "Kurt Fearnley",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Get back up.",
+    "micro_action": {
+      "task": "Help someone else today.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 88,
+    "quote": {
+      "text": "It's about the legacy you leave behind.",
+      "author": "Patty Mills",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Leave a legacy.",
+    "micro_action": {
+      "task": "Set a good example for a younger player.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 89,
+    "quote": {
+      "text": "There's no shortcut to success.",
+      "author": "Ellyse Perry",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "No shortcuts.",
+    "micro_action": {
+      "task": "Drink 2 liters of water today.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 90,
+    "quote": {
+      "text": "I just kept playing.",
+      "author": "Don Bradman",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Keep playing.",
+    "micro_action": {
+      "task": "Clean your sports gear.",
+      "category": "Manners"
+    }
+  }
+]

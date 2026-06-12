@@ -1,0 +1,392 @@
+[
+  {
+    "day": 1,
+    "quote": {
+      "text": "I've failed over and over and over again in my life. And that is why I succeed.",
+      "author": "Michael Jordan",
+      "attribution": "Widely attributed / Nike 'Failure' Commercial (1997)"
+    },
+    "mantra": "Fail forward.",
+    "micro_action": {
+      "task": "Drink 2 liters of water today.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 2,
+    "quote": {
+      "text": "I can accept failure. Everyone fails at something. But I can't accept not trying.",
+      "author": "Michael Jordan",
+      "attribution": "I Can't Accept Not Trying (1994)"
+    },
+    "mantra": "Just start.",
+    "micro_action": {
+      "task": "Eat 2 pieces of fruit today.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 3,
+    "quote": {
+      "text": "What I'm doing right now, I'm chasing perfection.",
+      "author": "Kobe Bryant",
+      "attribution": "The Mamba Mentality: How I Play (2018)"
+    },
+    "mantra": "Chase your best.",
+    "micro_action": {
+      "task": "Say 'thank you' to your coach after practice.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 4,
+    "quote": {
+      "text": "Talent wins games, but teamwork and intelligence wins championships.",
+      "author": "Michael Jordan",
+      "attribution": "I Can't Accept Not Trying (1994)"
+    },
+    "mantra": "Team first.",
+    "micro_action": {
+      "task": "High-five every teammate today.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 5,
+    "quote": {
+      "text": "Be authentic, and let them like you or not for who you actually are.",
+      "author": "Kobe Bryant",
+      "attribution": "The Mamba Mentality: How I Play (2018)"
+    },
+    "mantra": "Be you.",
+    "micro_action": {
+      "task": "Share one thing you're proud of with a parent.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 6,
+    "quote": {
+      "text": "Get over yourself! 'Cause it's not about you, man. You are not that important!",
+      "author": "Kobe Bryant",
+      "attribution": "Interview with Patrick Bet-David (2019)"
+    },
+    "mantra": "Play for the team.",
+    "micro_action": {
+      "task": "Help clean up equipment after your session.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 7,
+    "quote": {
+      "text": "I set another goal \u2026 a reasonable, manageable goal that I could realistically achieve if I worked hard enough. I approached everything step by step.",
+      "author": "Michael Jordan",
+      "attribution": "How to be like Mike (2005)"
+    },
+    "mantra": "One step at a time.",
+    "micro_action": {
+      "task": "Write down your goal for this week.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 8,
+    "quote": {
+      "text": "Limits, like fears, are often just an illusion.",
+      "author": "Michael Jordan",
+      "attribution": "Hall of Fame Induction Speech (2009)"
+    },
+    "mantra": "No limits.",
+    "micro_action": {
+      "task": "Try one new skill or drill you find difficult today.",
+      "category": "Resilience"
+    }
+  },
+  {
+    "day": 9,
+    "quote": {
+      "text": "I really think a champion is defined not by their wins but by how they can recover when they fall.",
+      "author": "Serena Williams",
+      "attribution": "Widely attributed interview"
+    },
+    "mantra": "Bounce back.",
+    "micro_action": {
+      "task": "Drink a glass of water first thing in the morning.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 10,
+    "quote": {
+      "text": "The only place success comes before work is in the dictionary.",
+      "author": "Vince Lombardi",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Work for it.",
+    "micro_action": {
+      "task": "Pack your sports bag the night before.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 11,
+    "quote": {
+      "text": "One important key to success is self-confidence. An important key to self-confidence is preparation.",
+      "author": "Arthur Ashe",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Prepare to win.",
+    "micro_action": {
+      "task": "Stretch for 10 minutes before bed.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 12,
+    "quote": {
+      "text": "Excellence is the gradual result of always striving to do better.",
+      "author": "Pat Riley",
+      "attribution": "The Winner Within (1993)"
+    },
+    "mantra": "Better every day.",
+    "micro_action": {
+      "task": "Eat a healthy snack instead of chips or sweets today.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 13,
+    "quote": {
+      "text": "I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'",
+      "author": "Muhammad Ali",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Keep going.",
+    "micro_action": {
+      "task": "Do 5 extra push-ups or sit-ups.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 14,
+    "quote": {
+      "text": "If you are afraid of failure you don't deserve to be successful!",
+      "author": "Charles Barkley",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "No fear.",
+    "micro_action": {
+      "task": "Cheer for a teammate when they make a mistake.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 15,
+    "quote": {
+      "text": "No matter how good you get, you can always get better, and that's the exciting part.",
+      "author": "Tiger Woods",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Always growing.",
+    "micro_action": {
+      "task": "Ask your coach for one thing you can improve.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 16,
+    "quote": {
+      "text": "Champions keep playing until they get it right.",
+      "author": "Billie Jean King",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Get it right.",
+    "micro_action": {
+      "task": "Practice your 'weak' side (left hand/foot) for 5 minutes.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 17,
+    "quote": {
+      "text": "The backbone of success is hard work, determination, good planning, and the perseverance to see it through.",
+      "author": "Mia Hamm",
+      "attribution": "Go For the Goal (1999)"
+    },
+    "mantra": "See it through.",
+    "micro_action": {
+      "task": "Drink water instead of a sugary drink at lunch.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 18,
+    "quote": {
+      "text": "I'm a very positive thinker, and I think that is what helps me the most in difficult moments.",
+      "author": "Roger Federer",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Stay positive.",
+    "micro_action": {
+      "task": "Hold the door open for someone today.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 19,
+    "quote": {
+      "text": "A life is not important except in the impact it has on other lives.",
+      "author": "Jackie Robinson",
+      "attribution": "I Never Had It Made (1972)"
+    },
+    "mantra": "Impact others.",
+    "micro_action": {
+      "task": "Give a compliment to someone at school.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 20,
+    "quote": {
+      "text": "I don't think limits.",
+      "author": "Usain Bolt",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Beyond limits.",
+    "micro_action": {
+      "task": "Focus on beating your own best time or score today.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 21,
+    "quote": {
+      "text": "For me, losing is not coming second. It\u2019s coming out of a swim and knowing that you could have done better.",
+      "author": "Ian Thorpe",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Leave it all out there.",
+    "micro_action": {
+      "task": "Carry a water bottle with you all day.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 22,
+    "quote": {
+      "text": "I was never coached; I just played the game.",
+      "author": "Don Bradman",
+      "attribution": "Widely attributed (Australian Cricket Legend)"
+    },
+    "mantra": "Play the game.",
+    "micro_action": {
+      "task": "Shake hands with your opponent after the match.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 23,
+    "quote": {
+      "text": "You got to believe in yourself.",
+      "author": "Cathy Freeman",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "I believe.",
+    "micro_action": {
+      "task": "Have a piece of fruit as your afternoon snack.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 24,
+    "quote": {
+      "text": "I\u2019m just a girl from Brisbane who happens to play tennis.",
+      "author": "Ash Barty",
+      "attribution": "Widely attributed (Australian Athlete)"
+    },
+    "mantra": "Stay humble.",
+    "micro_action": {
+      "task": "Reflect on one thing you did well today.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 25,
+    "quote": {
+      "text": "I don\u2019t really care what people think of me, as long as I\u2019m happy.",
+      "author": "Sam Kerr",
+      "attribution": "Widely attributed (Australian Soccer Star)"
+    },
+    "mantra": "Play for joy.",
+    "micro_action": {
+      "task": "Smile when things get tough in training.",
+      "category": "Resilience"
+    }
+  },
+  {
+    "day": 26,
+    "quote": {
+      "text": "It\u2019s about making the most of every opportunity.",
+      "author": "Ellyse Perry",
+      "attribution": "Widely attributed (Australian Dual-Sport Star)"
+    },
+    "mantra": "Seize the day.",
+    "micro_action": {
+      "task": "Say 'Please' and 'Thank you' to your parents/guardians today.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 27,
+    "quote": {
+      "text": "There may be people who have more talent than you, but there\u2019s no excuse for anyone to work harder than you do.",
+      "author": "Derek Jeter",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Outwork everyone.",
+    "micro_action": {
+      "task": "Help a younger player with their skills.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 28,
+    "quote": {
+      "text": "I\u2019d rather regret the risks that didn\u2019t work out than the chances I didn\u2019t take at all.",
+      "author": "Simone Biles",
+      "attribution": "Courage to Soar (2016)"
+    },
+    "mantra": "Take the chance.",
+    "micro_action": {
+      "task": "Drink a glass of water before every meal.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 29,
+    "quote": {
+      "text": "I didn\u2019t come this far to only come this far.",
+      "author": "Tom Brady",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Keep climbing.",
+    "micro_action": {
+      "task": "Set a Personal Best in one exercise today.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 30,
+    "quote": {
+      "text": "It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.",
+      "author": "Muhammad Ali",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Fix the small things.",
+    "micro_action": {
+      "task": "Clean your sports shoes or equipment today.",
+      "category": "Manners"
+    }
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "day": 121,
+    "quote": {
+      "text": "It\u2019s about the team. Individual awards are great, but winning with your teammates is what matters most.",
+      "author": "Andrew Gaze",
+      "attribution": "Public Interview / Australian Basketball Hall of Fame"
+    },
+    "mantra": "Team over self.",
+    "micro_action": {
+      "task": "Pass the ball to a teammate in a better position today.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 122,
+    "quote": {
+      "text": "You have to be willing to do the work when nobody is looking. That's where champions are made.",
+      "author": "Lauren Jackson",
+      "attribution": "Public Interview / WNBA & Opals Legend"
+    },
+    "mantra": "Work in the dark.",
+    "micro_action": {
+      "task": "Do 10 minutes of solo practice today.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 123,
+    "quote": {
+      "text": "I just wanted to be the best teammate I could be and help the team win championships.",
+      "author": "Luc Longley",
+      "attribution": "Public Interview / NBA Champion"
+    },
+    "mantra": "Be the best teammate.",
+    "micro_action": {
+      "task": "Encourage a teammate who just made a mistake.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 124,
+    "quote": {
+      "text": "Representing your culture and where you come from gives you a strength that nothing else can.",
+      "author": "Patty Mills",
+      "attribution": "Public Interview / NBA & Boomers Star"
+    },
+    "mantra": "Know your roots.",
+    "micro_action": {
+      "task": "Drink a glass of water before you head to school.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 125,
+    "quote": {
+      "text": "Resilience is not a solo sport. We all need people to lean on when things get tough.",
+      "author": "Madison de Rozario",
+      "attribution": "Public Interview / Paralympic Champion"
+    },
+    "mantra": "Stronger together.",
+    "micro_action": {
+      "task": "Ask a friend or teammate how their day is going.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 126,
+    "quote": {
+      "text": "Focus on your own performance and control the controllables. The rest will take care of itself.",
+      "author": "Jessica Fox",
+      "attribution": "Public Interview / Olympic Slalom Canoeist"
+    },
+    "mantra": "Control the controllable.",
+    "micro_action": {
+      "task": "Take 5 deep breaths before your next training session.",
+      "category": "Resilience"
+    }
+  },
+  {
+    "day": 127,
+    "quote": {
+      "text": "I'm just Sam. I go out there and play the game I love with my mates.",
+      "author": "Sam Kerr",
+      "attribution": "Public Interview / Matildas Captain"
+    },
+    "mantra": "Stay humble.",
+    "micro_action": {
+      "task": "Clean your boots or sneakers after practice.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 128,
+    "quote": {
+      "text": "I love the challenge of competing. It doesn't matter what the sport is, it's about the contest.",
+      "author": "Ellyse Perry",
+      "attribution": "Public Interview / Dual International"
+    },
+    "mantra": "Love the contest.",
+    "micro_action": {
+      "task": "Eat a piece of fruit with breakfast today.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 129,
+    "quote": {
+      "text": "Respect your opponent, but never fear them. Everyone is beatable if you play your best.",
+      "author": "Ash Barty",
+      "attribution": "Public Interview / Wimbledon Champion"
+    },
+    "mantra": "Respect, no fear.",
+    "micro_action": {
+      "task": "Say 'Good morning' to 3 people at school today.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 130,
+    "quote": {
+      "text": "I'm not perfect, I'm just human. I make mistakes, but I learn from them and move on.",
+      "author": "Ian Thorpe",
+      "attribution": "Public Interview / Olympic Swimmer"
+    },
+    "mantra": "Human and growing.",
+    "micro_action": {
+      "task": "Write down one thing you learned from a mistake this week.",
+      "category": "Resilience"
+    }
+  },
+  {
+    "day": 131,
+    "quote": {
+      "text": "The only way to achieve the impossible is to believe it is possible.",
+      "author": "Charles Kingsleigh",
+      "attribution": "Public Domain (Alice in Wonderland theme)"
+    },
+    "mantra": "Believe in the impossible.",
+    "micro_action": {
+      "task": "Try a move or trick you thought was too hard today.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 132,
+    "quote": {
+      "text": "A trophy carries dust. Memories last forever.",
+      "author": "Mary Lou Retton",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Make memories.",
+    "micro_action": {
+      "task": "Take a photo with your team or a teammate today.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 133,
+    "quote": {
+      "text": "If you don't have a dream, you have nothing to work for. If you don't have a goal, you have nothing to reach for.",
+      "author": "Jackie Joyner-Kersee",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Dream and reach.",
+    "micro_action": {
+      "task": "Drink 2 liters of water today.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 134,
+    "quote": {
+      "text": "I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'",
+      "author": "Muhammad Ali",
+      "attribution": "Public Domain"
+    },
+    "mantra": "Finish the training.",
+    "micro_action": {
+      "task": "Finish every rep of your workout today.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 135,
+    "quote": {
+      "text": "Winning is a habit. Unfortunately, so is losing.",
+      "author": "Vince Lombardi",
+      "attribution": "Public Domain"
+    },
+    "mantra": "Choose good habits.",
+    "micro_action": {
+      "task": "Pack your bag perfectly for tomorrow.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 136,
+    "quote": {
+      "text": "Don't count the days, make the days count.",
+      "author": "Muhammad Ali",
+      "attribution": "Public Domain"
+    },
+    "mantra": "Make today count.",
+    "micro_action": {
+      "task": "Do one kind act for a teacher or coach today.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 137,
+    "quote": {
+      "text": "The mind is the limit. As long as the mind can envision the fact that you can do something, you can do it.",
+      "author": "Arnold Schwarzenegger",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Mind over matter.",
+    "micro_action": {
+      "task": "Visualize yourself succeeding at a difficult skill for 2 minutes.",
+      "category": "Resilience"
+    }
+  },
+  {
+    "day": 138,
+    "quote": {
+      "text": "You have to expect things of yourself before you can do them.",
+      "author": "Michael Jordan",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Expect greatness.",
+    "micro_action": {
+      "task": "Eat two servings of fruit today.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 139,
+    "quote": {
+      "text": "Excellence is not a singular act, but a habit. You are what you repeatedly do.",
+      "author": "Aristotle (attributed)",
+      "attribution": "Public Domain"
+    },
+    "mantra": "Repeat excellence.",
+    "micro_action": {
+      "task": "Always use 'Please' when asking for something today.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 140,
+    "quote": {
+      "text": "Do not let what you cannot do interfere with what you can do.",
+      "author": "John Wooden",
+      "attribution": "Public Domain"
+    },
+    "mantra": "Focus on the possible.",
+    "micro_action": {
+      "task": "Drink a glass of water before every meal.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 141,
+    "quote": {
+      "text": "A champion is someone who gets up when they can't.",
+      "author": "Jack Dempsey",
+      "attribution": "Public Domain"
+    },
+    "mantra": "Get up one more time.",
+    "micro_action": {
+      "task": "If you fall or fail today, stand up and try again within 10 seconds.",
+      "category": "Resilience"
+    }
+  },
+  {
+    "day": 142,
+    "quote": {
+      "text": "Your love for the game should be greater than your fear of failure.",
+      "author": "Traditional Sports Proverb",
+      "attribution": "Public Domain"
+    },
+    "mantra": "Love over fear.",
+    "micro_action": {
+      "task": "Tell a teammate why you enjoy playing with them.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 143,
+    "quote": {
+      "text": "The harder you work, the harder it is to surrender.",
+      "author": "Vince Lombardi",
+      "attribution": "Public Domain"
+    },
+    "mantra": "Don't surrender.",
+    "micro_action": {
+      "task": "Keep your effort high even when the score is against you.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 144,
+    "quote": {
+      "text": "It's not the size of the dog in the fight, it's the size of the fight in the dog.",
+      "author": "Mark Twain (attributed)",
+      "attribution": "Public Domain"
+    },
+    "mantra": "Big heart, big fight.",
+    "micro_action": {
+      "task": "Use your voice to cheer for your team today.",
+      "category": "Kindness"
+    }
+  },
+  {
+    "day": 145,
+    "quote": {
+      "text": "Obstacles don't have to stop you. If you run into a wall, don't turn around and give up.",
+      "author": "Michael Jordan",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Climb the wall.",
+    "micro_action": {
+      "task": "Find a way around a problem you face today.",
+      "category": "Resilience"
+    }
+  },
+  {
+    "day": 146,
+    "quote": {
+      "text": "Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts.",
+      "author": "Dan Gable",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Guts and glory.",
+    "micro_action": {
+      "task": "Drink 1.5 liters of water today.",
+      "category": "Hydration"
+    }
+  },
+  {
+    "day": 147,
+    "quote": {
+      "text": "There are no shortcuts to any place worth going.",
+      "author": "Beverly Sills",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "The long way is the right way.",
+    "micro_action": {
+      "task": "Have a piece of fruit as a snack.",
+      "category": "Fruit Intake"
+    }
+  },
+  {
+    "day": 148,
+    "quote": {
+      "text": "Character is how you treat those who can do nothing for you.",
+      "author": "Johann Wolfgang von Goethe (attributed)",
+      "attribution": "Public Domain"
+    },
+    "mantra": "True character.",
+    "micro_action": {
+      "task": "Help a younger or less experienced player today.",
+      "category": "Manners"
+    }
+  },
+  {
+    "day": 149,
+    "quote": {
+      "text": "Set your goals high, and don't stop till you get there.",
+      "author": "Bo Jackson",
+      "attribution": "Widely attributed"
+    },
+    "mantra": "Don't stop.",
+    "micro_action": {
+      "task": "Review your goals and update them if needed.",
+      "category": "Personal Best"
+    }
+  },
+  {
+    "day": 150,
+    "quote": {
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill (attributed)",
+      "attribution": "Public Domain"
+    },
+    "mantra": "Courage to continue.",
+    "micro_action": {
+      "task": "Celebrate reaching 150 days of growth!",
+      "category": "Resilience"
+    }
+  }
+]
