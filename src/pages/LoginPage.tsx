@@ -7,7 +7,11 @@ const VALID_CODES = [
   'HILLS-CBA-2026', 
   'BAYSIDE-SOCCER-CBA', 
   'WEST-COAST-SOFTBALL-2026',
-  'NORTH-CBA'
+  'NORTH-CBA',
+  'QLDGOLF',
+  'METRO-NETBALL-CBA',
+  'MELB-GRAMMAR-CBA',
+  'SYD-OLYMPIC-CBA'
 ];
 
 const LoginPage: React.FC = () => {

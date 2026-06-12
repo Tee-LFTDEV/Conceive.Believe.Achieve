@@ -30,6 +30,51 @@ const CLUBS = {
     accent: 'text-yellow-600',
     light: 'bg-yellow-50',
     logo: '🥎'
+  },
+  'northern-districts-cricket': {
+    name: 'Northern Districts Cricket',
+    users: '150',
+    code: 'NORTH-CBA',
+    color: 'bg-green-700',
+    accent: 'text-green-700',
+    light: 'bg-green-50',
+    logo: '🏏'
+  },
+  'qld-junior-golf': {
+    name: 'Queensland Junior Golf',
+    users: '40',
+    code: 'QLDGOLF',
+    color: 'bg-emerald-600',
+    accent: 'text-emerald-600',
+    light: 'bg-emerald-50',
+    logo: '⛳'
+  },
+  'metro-netball': {
+    name: 'Metro Netball Club',
+    users: '120',
+    code: 'METRO-NETBALL-CBA',
+    color: 'bg-pink-600',
+    accent: 'text-pink-600',
+    light: 'bg-pink-50',
+    logo: '🏐'
+  },
+  'melb-grammar': {
+    name: 'Melbourne Grammar Sport',
+    users: '200',
+    code: 'MELB-GRAMMAR-CBA',
+    color: 'bg-blue-900',
+    accent: 'text-blue-900',
+    light: 'bg-blue-50',
+    logo: '🏫'
+  },
+  'syd-olympic': {
+    name: 'Sydney Olympic FC Youth',
+    users: '150',
+    code: 'SYD-OLYMPIC-CBA',
+    color: 'bg-cyan-600',
+    accent: 'text-cyan-600',
+    light: 'bg-cyan-50',
+    logo: '⚽'
   }
 };
 
