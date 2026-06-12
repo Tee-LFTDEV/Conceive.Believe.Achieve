@@ -1,73 +1,41 @@
-# React + TypeScript + Vite
+# Conceive. Believe. Achieve. (CBA)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A gamified **resilience-building** app for young athletes (ages 8–18).
 
-Currently, two official plugins are available:
+## Value Proposition
+Delivers daily sets of 3 — a mindset quote, a mantra, and a micro-action plan — drawn from elite coaching across golf, basketball, netball, softball, soccer, and more. Builds positive self-belief, "success delusion," and incremental habits: hydration, fruit intake, manners, kindness, and personal-best focus.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
+- **Daily Training**: 365 days of mindset and resilience coaching.
+- **Gamified Progress**: Earn badges and maintain streaks.
+- **Parent Preview Layer**: Parents can review and approve content before their child sees it.
+- **Club-Friendly**: Support for custom club codes and bulk licensing.
+- **PWA Ready**: Installable on iOS and Android as a Progressive Web App.
 
-## React Compiler
+## Tech Stack
+- **Frontend**: React 19, TypeScript, Vite
+- **Styling**: Tailwind CSS 4
+- **Animations**: Framer Motion
+- **Icons**: Lucide React
+- **Deployment**: Vercel
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Getting Started
 
-## Expanding the ESLint configuration
+### Prerequisites
+- Node.js (v18+)
+- npm or yarn
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+### Installation
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Start dev server: `npm run dev`
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+### Production Build
+To create a production-ready build:
+`npm run build`
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+The output will be in the `dist/` directory.
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## Copyright
+Copyright © **Intercept Group Australia Pty Ltd**.
+All content draws from public-domain sources with full attribution.

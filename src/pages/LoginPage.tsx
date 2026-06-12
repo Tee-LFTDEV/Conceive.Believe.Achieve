@@ -1,16 +1,38 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { LogIn, Mail, Globe, Smartphone } from 'lucide-react';
-import { useNavigate } from 'react-router-dom';
+import { LogIn, Mail, Globe, Smartphone, Hash } from 'lucide-react';
+import { useNavigate, useLocation } from 'react-router-dom';
+
+const VALID_CODES = [
+  'HILLS-CBA-2026', 
+  'BAYSIDE-SOCCER-CBA', 
+  'WEST-COAST-SOFTBALL-2026',
+  'NORTH-CBA'
+];
 
 const LoginPage: React.FC = () => {
   const [email, setEmail] = useState('');
+  const [code, setCode] = useState('');
   const navigate = useNavigate();
+  const location = useLocation();
+
+  useEffect(() => {
+    const params = new URLSearchParams(location.search);
+    const codeParam = params.get('code');
+    if (codeParam) {
+      setCode(codeParam);
+    }
+  }, [location]);
 
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
     // Mock login logic
     localStorage.setItem('isAuthenticated', 'true');
+    
+    if (VALID_CODES.includes(code.toUpperCase())) {
+      localStorage.setItem('isPaid', 'true');
+    }
+    
     navigate('/');
   };
 
@@ -45,6 +67,22 @@ const LoginPage: React.FC = () => {
                   onChange={(e) => setEmail(e.target.value)}
                   className="block w-full pl-10 pr-4 py-3 bg-gray-50 border border-gray-200 rounded-2xl focus:ring-2 focus:ring-purple-500 focus:border-transparent outline-none transition-all"
                   placeholder="name@example.com"
+                />
+              </div>
+            </div>
+            <div>
+              <label htmlFor="code" className="block text-sm font-medium text-gray-700 mb-1">
+                Club/Discount Code (Optional)
+              </label>
+              <div className="relative">
+                <Hash className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 h-5 w-5" />
+                <input
+                  id="code"
+                  type="text"
+                  value={code}
+                  onChange={(e) => setCode(e.target.value)}
+                  className="block w-full pl-10 pr-4 py-3 bg-gray-50 border border-gray-200 rounded-2xl focus:ring-2 focus:ring-purple-500 focus:border-transparent outline-none transition-all"
+                  placeholder="e.g. CLUB-CODE-2026"
                 />
               </div>
             </div>

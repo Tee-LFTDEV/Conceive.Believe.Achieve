@@ -6,7 +6,7 @@ import { motion } from 'framer-motion';
 import { cn } from '../utils/cn';
 
 const SettingsPage: React.FC = () => {
-  const { dailySets, syncContent, isLoading } = useAppContext();
+  const { dailySets, parentSummaries, syncContent, isLoading } = useAppContext();
   const [showPreview, setShowPreview] = useState(false);
   const navigate = useNavigate();
 
@@ -15,8 +15,10 @@ const SettingsPage: React.FC = () => {
     navigate('/login');
   };
 
-  // Mock "next week" content
-  const nextWeekContent = dailySets.slice(7, 14);
+  // Use real parent summaries if available, otherwise fallback to dailySets
+  const nextWeekContent = parentSummaries.length > 0 
+    ? parentSummaries.slice(0, 7) 
+    : dailySets.slice(7, 14);
 
   return (
     <div className="space-y-8 pb-10">
@@ -147,13 +149,19 @@ const SettingsPage: React.FC = () => {
                     <span className="text-[10px] text-gray-400 uppercase font-bold">Approved</span>
                   </div>
                 </div>
-                <p className="text-sm font-medium text-gray-800 italic">"{set.quote.text}"</p>
-                <div className="flex items-center gap-2">
-                  <div className="bg-green-50 px-2 py-1 rounded-lg">
-                    <p className="text-[10px] font-bold text-green-700 uppercase">{set.micro_action.category}</p>
-                  </div>
-                  <p className="text-xs text-gray-500 truncate">{set.micro_action.task}</p>
-                </div>
+                {set.summary ? (
+                  <p className="text-sm font-medium text-gray-700 leading-relaxed">{set.summary}</p>
+                ) : (
+                  <>
+                    <p className="text-sm font-medium text-gray-800 italic">"{set.quote?.text}"</p>
+                    <div className="flex items-center gap-2">
+                      <div className="bg-green-50 px-2 py-1 rounded-lg">
+                        <p className="text-[10px] font-bold text-green-700 uppercase">{set.micro_action?.category}</p>
+                      </div>
+                      <p className="text-xs text-gray-500 truncate">{set.micro_action?.task}</p>
+                    </div>
+                  </>
+                )}
               </div>
             ))}
           </div>

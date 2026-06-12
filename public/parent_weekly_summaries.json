@@ -1,0 +1,873 @@
+[
+  {
+    "week": 1,
+    "theme": "Week 1: Building Resilience through Personal Best and Fruit Intake",
+    "key_athletes": [
+      "Michael Jordan",
+      "Kobe Bryant"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Fruit Intake",
+      "Kindness",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Michael Jordan, Kobe Bryant and others. The daily actions will prioritize Personal Best, Fruit Intake, Kindness, Manners, Hydration."
+  },
+  {
+    "week": 2,
+    "theme": "Week 2: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Michael Jordan",
+      "Muhammad Ali",
+      "Arthur Ashe"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Fruit Intake",
+      "Kindness",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Michael Jordan, Muhammad Ali and others. The daily actions will prioritize Resilience, Personal Best, Fruit Intake, Kindness, Manners, Hydration."
+  },
+  {
+    "week": 3,
+    "theme": "Week 3: Building Resilience through Personal Best and Hydration",
+    "key_athletes": [
+      "Billie Jean King",
+      "Jackie Robinson",
+      "Roger Federer"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Hydration",
+      "Kindness",
+      "Manners"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Billie Jean King, Jackie Robinson and others. The daily actions will prioritize Personal Best, Hydration, Kindness, Manners."
+  },
+  {
+    "week": 4,
+    "theme": "Week 4: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Ellyse Perry",
+      "Don Bradman",
+      "Derek Jeter"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Fruit Intake",
+      "Kindness",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Ellyse Perry, Don Bradman and others. The daily actions will prioritize Resilience, Personal Best, Fruit Intake, Kindness, Manners, Hydration."
+  },
+  {
+    "week": 5,
+    "theme": "Week 5: Building Resilience through Personal Best and Fruit Intake",
+    "key_athletes": [
+      "Muhammad Ali",
+      "Cathy Freeman",
+      "Ash Barty"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Fruit Intake",
+      "Kindness",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Muhammad Ali, Cathy Freeman and others. The daily actions will prioritize Personal Best, Fruit Intake, Kindness, Manners, Hydration."
+  },
+  {
+    "week": 6,
+    "theme": "Week 6: Building Resilience through Personal Best and Kindness",
+    "key_athletes": [
+      "Ariarne Titmus",
+      "Steve Waugh",
+      "Adam Gilchrist"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Kindness",
+      "Fruit Intake",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Ariarne Titmus, Steve Waugh and others. The daily actions will prioritize Personal Best, Kindness, Fruit Intake, Manners, Hydration."
+  },
+  {
+    "week": 7,
+    "theme": "Week 7: Building Resilience through Hydration and Fruit Intake",
+    "key_athletes": [
+      "Kaylee McKeown",
+      "Dylan Alcott",
+      "Ellyse Perry"
+    ],
+    "focus_areas": [
+      "Hydration",
+      "Fruit Intake",
+      "Kindness",
+      "Manners"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Kaylee McKeown, Dylan Alcott and others. The daily actions will prioritize Hydration, Fruit Intake, Kindness, Manners."
+  },
+  {
+    "week": 8,
+    "theme": "Week 8: Building Resilience through Manners and Fruit Intake",
+    "key_athletes": [
+      "Grant Hackett",
+      "Leisel Jones",
+      "Tim Cahill"
+    ],
+    "focus_areas": [
+      "Manners",
+      "Fruit Intake",
+      "Kindness",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Grant Hackett, Leisel Jones and others. The daily actions will prioritize Manners, Fruit Intake, Kindness, Hydration."
+  },
+  {
+    "week": 9,
+    "theme": "Week 9: Building Resilience through Hydration and Fruit Intake",
+    "key_athletes": [
+      "Stephanie Gilmore",
+      "Theodore Roosevelt",
+      "Ash Barty"
+    ],
+    "focus_areas": [
+      "Hydration",
+      "Fruit Intake",
+      "Kindness",
+      "Manners"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Stephanie Gilmore, Theodore Roosevelt and others. The daily actions will prioritize Hydration, Fruit Intake, Kindness, Manners."
+  },
+  {
+    "week": 10,
+    "theme": "Week 10: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Yogi Berra",
+      "Pat Summitt",
+      "Babe Ruth"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Fruit Intake",
+      "Kindness",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Yogi Berra, Pat Summitt and others. The daily actions will prioritize Resilience, Personal Best, Fruit Intake, Kindness, Manners, Hydration."
+  },
+  {
+    "week": 11,
+    "theme": "Week 11: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Marcus Aurelius",
+      "Billie Jean King",
+      "Vince Lombardi"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Kindness",
+      "Fruit Intake",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Marcus Aurelius, Billie Jean King and others. The daily actions will prioritize Resilience, Personal Best, Kindness, Fruit Intake, Manners, Hydration."
+  },
+  {
+    "week": 12,
+    "theme": "Week 12: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Novak Djokovic",
+      "Tiger Woods",
+      "Cathy Freeman"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Fruit Intake",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Novak Djokovic, Tiger Woods and others. The daily actions will prioritize Resilience, Personal Best, Fruit Intake, Manners, Hydration."
+  },
+  {
+    "week": 13,
+    "theme": "Week 13: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Ellyse Perry",
+      "Don Bradman",
+      "Courtney Bruce"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Kindness",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Ellyse Perry, Don Bradman and others. The daily actions will prioritize Resilience, Personal Best, Kindness, Manners, Hydration."
+  },
+  {
+    "week": 14,
+    "theme": "Week 14: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Stacey Porter",
+      "Traditional Sportsmanship Proverb",
+      "Karrie Webb"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Fruit Intake",
+      "Kindness",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Stacey Porter, Traditional Sportsmanship Proverb and others. The daily actions will prioritize Resilience, Personal Best, Fruit Intake, Kindness, Manners, Hydration."
+  },
+  {
+    "week": 15,
+    "theme": "Week 15: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Vince Lombardi",
+      "Theodore Roosevelt",
+      "John Wooden"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Fruit Intake",
+      "Kindness",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Vince Lombardi, Theodore Roosevelt and others. The daily actions will prioritize Resilience, Personal Best, Fruit Intake, Kindness, Manners, Hydration."
+  },
+  {
+    "week": 16,
+    "theme": "Week 16: Building Resilience through Personal Best and Fruit Intake",
+    "key_athletes": [
+      "Babe Ruth",
+      "Ross Perot",
+      "George F. Will"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Fruit Intake",
+      "Kindness",
+      "Manners"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Babe Ruth, Ross Perot and others. The daily actions will prioritize Personal Best, Fruit Intake, Kindness, Manners."
+  },
+  {
+    "week": 17,
+    "theme": "Week 17: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Tommy Lasorda",
+      "Les Brown",
+      "Vince Lombardi"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Kindness",
+      "Fruit Intake",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Tommy Lasorda, Les Brown and others. The daily actions will prioritize Resilience, Personal Best, Kindness, Fruit Intake, Manners, Hydration."
+  },
+  {
+    "week": 18,
+    "theme": "Week 18: Building Resilience through Personal Best and Kindness",
+    "key_athletes": [
+      "Carl Lewis",
+      "Andrew Gaze",
+      "Madison de Rozario"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Kindness",
+      "Resilience",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Carl Lewis, Andrew Gaze and others. The daily actions will prioritize Personal Best, Kindness, Resilience, Hydration."
+  },
+  {
+    "week": 19,
+    "theme": "Week 19: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Jackie Joyner-Kersee",
+      "Mary Lou Retton",
+      "Ellyse Perry"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Fruit Intake",
+      "Kindness",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Jackie Joyner-Kersee, Mary Lou Retton and others. The daily actions will prioritize Resilience, Personal Best, Fruit Intake, Kindness, Manners, Hydration."
+  },
+  {
+    "week": 20,
+    "theme": "Week 20: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Arnold Schwarzenegger",
+      "Michael Jordan",
+      "Muhammad Ali"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Kindness",
+      "Fruit Intake",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Arnold Schwarzenegger, Michael Jordan and others. The daily actions will prioritize Resilience, Personal Best, Kindness, Fruit Intake, Manners, Hydration."
+  },
+  {
+    "week": 21,
+    "theme": "Week 21: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Michael Jordan",
+      "Jack Dempsey",
+      "Vince Lombardi"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Kindness",
+      "Fruit Intake",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Michael Jordan, Jack Dempsey and others. The daily actions will prioritize Resilience, Personal Best, Kindness, Fruit Intake, Hydration."
+  },
+  {
+    "week": 22,
+    "theme": "Week 22: Building Resilience through Personal Best and Hydration",
+    "key_athletes": [
+      "Bo Jackson",
+      "Sally Pearson",
+      "Johann Wolfgang von Goethe (attributed)"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Hydration",
+      "Resilience",
+      "Manners"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Bo Jackson, Sally Pearson and others. The daily actions will prioritize Personal Best, Hydration, Resilience, Manners."
+  },
+  {
+    "week": 23,
+    "theme": "Week 23: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Stacey Porter",
+      "Dylan Alcott",
+      "Winston Churchill"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Kindness",
+      "Fruit Intake",
+      "Manners"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Stacey Porter, Dylan Alcott and others. The daily actions will prioritize Resilience, Personal Best, Kindness, Fruit Intake, Manners."
+  },
+  {
+    "week": 24,
+    "theme": "Week 24: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Margaret Thatcher",
+      "Booker T. Washington",
+      "Vince Lombardi"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Kindness",
+      "Fruit Intake",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Margaret Thatcher, Booker T. Washington and others. The daily actions will prioritize Resilience, Personal Best, Kindness, Fruit Intake, Manners, Hydration."
+  },
+  {
+    "week": 25,
+    "theme": "Week 25: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Nelson Mandela",
+      "Christian D. Larson",
+      "Walt Whitman"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Kindness",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Nelson Mandela, Christian D. Larson and others. The daily actions will prioritize Resilience, Personal Best, Kindness, Manners, Hydration."
+  },
+  {
+    "week": 26,
+    "theme": "Week 26: Building Resilience through Personal Best and Fruit Intake",
+    "key_athletes": [
+      "Adam Scott",
+      "Marvin Phillips",
+      "Henry David Thoreau"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Fruit Intake",
+      "Resilience",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Adam Scott, Marvin Phillips and others. The daily actions will prioritize Personal Best, Fruit Intake, Resilience, Hydration."
+  },
+  {
+    "week": 27,
+    "theme": "Week 27: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Unknown",
+      "Traditional Coaching Quote",
+      "Bruce Lee"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Fruit Intake",
+      "Kindness",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Unknown, Traditional Coaching Quote and others. The daily actions will prioritize Resilience, Personal Best, Fruit Intake, Kindness, Manners, Hydration."
+  },
+  {
+    "week": 28,
+    "theme": "Week 28: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Unknown",
+      "Babe Ruth",
+      "Roy T. Bennett"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Kindness",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Unknown, Babe Ruth and others. The daily actions will prioritize Resilience, Personal Best, Kindness, Manners, Hydration."
+  },
+  {
+    "week": 29,
+    "theme": "Week 29: Building Resilience through Personal Best and Kindness",
+    "key_athletes": [
+      "Norman Vincent Peale",
+      "Vince Lombardi",
+      "J.C. Watts"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Kindness",
+      "Manners",
+      "Fruit Intake"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Norman Vincent Peale, Vince Lombardi and others. The daily actions will prioritize Personal Best, Kindness, Manners, Fruit Intake."
+  },
+  {
+    "week": 30,
+    "theme": "Week 30: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Tommy Lasorda",
+      "Pablo Picasso",
+      "Peter Marshall"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Fruit Intake",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Tommy Lasorda, Pablo Picasso and others. The daily actions will prioritize Resilience, Personal Best, Fruit Intake, Manners, Hydration."
+  },
+  {
+    "week": 31,
+    "theme": "Week 31: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Robert Collier",
+      "Confucius",
+      "Theodore Roosevelt"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Fruit Intake",
+      "Kindness",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Robert Collier, Confucius and others. The daily actions will prioritize Resilience, Personal Best, Fruit Intake, Kindness, Hydration."
+  },
+  {
+    "week": 32,
+    "theme": "Week 32: Building Resilience through Personal Best and Manners",
+    "key_athletes": [
+      "Winston Churchill",
+      "Vince Lombardi",
+      "Newt Gingrich"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Manners",
+      "Resilience",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Winston Churchill, Vince Lombardi and others. The daily actions will prioritize Personal Best, Manners, Resilience, Hydration."
+  },
+  {
+    "week": 33,
+    "theme": "Week 33: Building Resilience through Personal Best and Kindness",
+    "key_athletes": [
+      "Babe Ruth",
+      "Vince Lombardi",
+      "James N. Watkins"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Kindness",
+      "Resilience",
+      "Fruit Intake"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Babe Ruth, Vince Lombardi and others. The daily actions will prioritize Personal Best, Kindness, Resilience, Fruit Intake."
+  },
+  {
+    "week": 34,
+    "theme": "Week 34: Building Resilience through Personal Best and Fruit Intake",
+    "key_athletes": [
+      "Carl Lewis",
+      "Billie Jean King",
+      "Winston Churchill"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Fruit Intake",
+      "Kindness",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Carl Lewis, Billie Jean King and others. The daily actions will prioritize Personal Best, Fruit Intake, Kindness, Manners, Hydration."
+  },
+  {
+    "week": 35,
+    "theme": "Week 35: Building Resilience through Personal Best and Hydration",
+    "key_athletes": [
+      "Unknown",
+      "Marcus Garvey",
+      "Arthur Ashe"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Hydration",
+      "Resilience",
+      "Manners"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Unknown, Marcus Garvey and others. The daily actions will prioritize Personal Best, Hydration, Resilience, Manners."
+  },
+  {
+    "week": 36,
+    "theme": "Week 36: Building Resilience through Personal Best and Kindness",
+    "key_athletes": [
+      "Lao Tzu",
+      "William Jennings Bryan",
+      "Marcus Garvey"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Kindness",
+      "Resilience",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Lao Tzu, William Jennings Bryan and others. The daily actions will prioritize Personal Best, Kindness, Resilience, Hydration."
+  },
+  {
+    "week": 37,
+    "theme": "Week 37: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Unknown",
+      "Sir Edmund Hillary",
+      "George Herbert"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Fruit Intake",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Unknown, Sir Edmund Hillary and others. The daily actions will prioritize Resilience, Personal Best, Fruit Intake, Manners, Hydration."
+  },
+  {
+    "week": 38,
+    "theme": "Week 38: Building Resilience through Personal Best and Manners",
+    "key_athletes": [
+      "Vince Lombardi",
+      "Bruce Lee",
+      "Mark Twain"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Manners"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Vince Lombardi, Bruce Lee and others. The daily actions will prioritize Personal Best, Manners."
+  },
+  {
+    "week": 39,
+    "theme": "Week 39: Building Resilience through Personal Best and Kindness",
+    "key_athletes": [
+      "Unknown",
+      "Vince Lombardi",
+      "Jackie Robinson"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Kindness",
+      "Resilience",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Unknown, Vince Lombardi and others. The daily actions will prioritize Personal Best, Kindness, Resilience, Hydration."
+  },
+  {
+    "week": 40,
+    "theme": "Week 40: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Lao Tzu",
+      "Bill Clinton",
+      "Stephen Hawking"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Kindness",
+      "Fruit Intake",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Lao Tzu, Bill Clinton and others. The daily actions will prioritize Resilience, Personal Best, Kindness, Fruit Intake, Manners, Hydration."
+  },
+  {
+    "week": 41,
+    "theme": "Week 41: Building Resilience through Personal Best and Resilience",
+    "key_athletes": [
+      "Vince Lombardi",
+      "Mark Twain",
+      "Theodore Roosevelt"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Resilience",
+      "Manners"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Vince Lombardi, Mark Twain and others. The daily actions will prioritize Personal Best, Resilience, Manners."
+  },
+  {
+    "week": 42,
+    "theme": "Week 42: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Muhammad Ali",
+      "Vince Lombardi",
+      "Jackie Robinson"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Kindness",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Muhammad Ali, Vince Lombardi and others. The daily actions will prioritize Resilience, Personal Best, Kindness, Manners, Hydration."
+  },
+  {
+    "week": 43,
+    "theme": "Week 43: Building Resilience through Resilience and Fruit Intake",
+    "key_athletes": [
+      "Henry Ford",
+      "Winston Churchill",
+      "Marvin Phillips"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Fruit Intake",
+      "Kindness",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Henry Ford, Winston Churchill and others. The daily actions will prioritize Resilience, Fruit Intake, Kindness, Manners, Hydration."
+  },
+  {
+    "week": 44,
+    "theme": "Week 44: Building Resilience through Personal Best and Kindness",
+    "key_athletes": [
+      "Helen Hayes",
+      "Zig Ziglar",
+      "Epictetus"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Kindness",
+      "Fruit Intake",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Helen Hayes, Zig Ziglar and others. The daily actions will prioritize Personal Best, Kindness, Fruit Intake, Manners, Hydration."
+  },
+  {
+    "week": 45,
+    "theme": "Week 45: Building Resilience through Personal Best and Manners",
+    "key_athletes": [
+      "Brad Henry",
+      "Vince Lombardi",
+      "Steve Jobs"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Brad Henry, Vince Lombardi and others. The daily actions will prioritize Personal Best, Manners, Hydration."
+  },
+  {
+    "week": 46,
+    "theme": "Week 46: Building Resilience through Personal Best and Kindness",
+    "key_athletes": [
+      "Muhammad Ali",
+      "Vince Lombardi",
+      "Jackie Robinson"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Kindness",
+      "Resilience",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Muhammad Ali, Vince Lombardi and others. The daily actions will prioritize Personal Best, Kindness, Resilience, Hydration."
+  },
+  {
+    "week": 47,
+    "theme": "Week 47: Building Resilience through Personal Best and Fruit Intake",
+    "key_athletes": [
+      "Winston Churchill",
+      "Vince Lombardi",
+      "Coco Chanel"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Fruit Intake",
+      "Kindness",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Winston Churchill, Vince Lombardi and others. The daily actions will prioritize Personal Best, Fruit Intake, Kindness, Manners, Hydration."
+  },
+  {
+    "week": 48,
+    "theme": "Week 48: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Marvin Phillips",
+      "Winston Churchill",
+      "Unknown"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Kindness",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Marvin Phillips, Winston Churchill and others. The daily actions will prioritize Resilience, Personal Best, Kindness, Manners, Hydration."
+  },
+  {
+    "week": 49,
+    "theme": "Week 49: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Jackie Joyner-Kersee",
+      "Charles Kingsleigh",
+      "Mary Lou Retton"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Fruit Intake",
+      "Kindness",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Jackie Joyner-Kersee, Charles Kingsleigh and others. The daily actions will prioritize Resilience, Personal Best, Fruit Intake, Kindness, Hydration."
+  },
+  {
+    "week": 50,
+    "theme": "Week 50: Building Resilience through Personal Best and Hydration",
+    "key_athletes": [
+      "Muhammad Ali",
+      "Vince Lombardi",
+      "Mark Twain"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Hydration",
+      "Kindness",
+      "Manners"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Muhammad Ali, Vince Lombardi and others. The daily actions will prioritize Personal Best, Hydration, Kindness, Manners."
+  },
+  {
+    "week": 51,
+    "theme": "Week 51: Building Resilience through Resilience and Personal Best",
+    "key_athletes": [
+      "Nelson Mandela",
+      "Christian D. Larson",
+      "Winston Churchill"
+    ],
+    "focus_areas": [
+      "Resilience",
+      "Personal Best",
+      "Kindness",
+      "Manners",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Nelson Mandela, Christian D. Larson and others. The daily actions will prioritize Resilience, Personal Best, Kindness, Manners, Hydration."
+  },
+  {
+    "week": 52,
+    "theme": "Week 52: Building Resilience through Personal Best and Fruit Intake",
+    "key_athletes": [
+      "Tommy Lasorda",
+      "Babe Ruth",
+      "Ross Perot"
+    ],
+    "focus_areas": [
+      "Personal Best",
+      "Fruit Intake",
+      "Resilience",
+      "Hydration"
+    ],
+    "weekly_message": "This week, your child will focus on resilience lessons from Tommy Lasorda, Babe Ruth and others. The daily actions will prioritize Personal Best, Fruit Intake, Resilience, Hydration."
+  }
+]

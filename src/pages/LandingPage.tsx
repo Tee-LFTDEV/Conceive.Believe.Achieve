@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Quote, Sparkles, CheckCircle2, ShieldCheck, Trophy, Smartphone, Send } from 'lucide-react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Link } from 'react-router-dom';
 
 const LandingPage: React.FC = () => {
   const navigate = useNavigate();
@@ -184,6 +184,15 @@ const LandingPage: React.FC = () => {
             </button>
           </div>
         </motion.div>
+
+        <div className="mt-12 flex flex-col md:flex-row items-center justify-center gap-6">
+          <Link 
+            to="/bulk-pay"
+            className="flex items-center gap-2 text-white/60 hover:text-white transition-colors font-bold uppercase tracking-widest text-xs"
+          >
+            Buying for a club or team? <span className="underline underline-offset-4 decoration-purple-500">Get volume pricing</span>
+          </Link>
+        </div>
       </section>
 
       {/* Footer */}

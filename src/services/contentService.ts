@@ -16,3 +16,13 @@ export const getDailySets = async (): Promise<DailySet[]> => {
     return [];
   }
 };
+
+export const getParentSummaries = async (): Promise<any[]> => {
+  try {
+    const response = await fetch('/parent_daily_summaries_30.json');
+    return await response.json();
+  } catch (error) {
+    console.error("Failed to load parent summaries", error);
+    return [];
+  }
+};

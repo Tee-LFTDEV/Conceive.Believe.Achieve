@@ -54,7 +54,7 @@ const PaymentPage: React.FC = () => {
               ))}
             </ul>
 
-            <div className="pt-4">
+            <div className="pt-4 space-y-4">
               <button
                 onClick={handlePayment}
                 disabled={loading}
@@ -68,6 +68,13 @@ const PaymentPage: React.FC = () => {
                     Secure Checkout
                   </>
                 )}
+              </button>
+
+              <button 
+                onClick={() => navigate('/login')}
+                className="w-full text-purple-600 font-bold text-sm hover:underline"
+              >
+                Have a club code? Sign in here
               </button>
             </div>
 

@@ -1,10 +1,11 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
 import type { DailySet, UserProgress } from '../types';
-import { getDailySets } from '../services/contentService';
+import { getDailySets, getParentSummaries } from '../services/contentService';
 import { mockDailySets } from '../services/mockData';
 
 interface AppContextType {
   dailySets: DailySet[];
+  parentSummaries: any[];
   currentSet: DailySet | null;
   progress: UserProgress;
   isLoading: boolean;
@@ -20,6 +21,7 @@ const AppContext = createContext<AppContextType | undefined>(undefined);
 
 export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const [dailySets, setDailySets] = useState<DailySet[]>(mockDailySets);
+  const [parentSummaries, setParentSummaries] = useState<any[]>([]);
   const [currentDay, setCurrentDay] = useState(1);
   const [isLoading, setIsLoading] = useState(true);
   const [isActionCompleted, setIsActionCompleted] = useState(false);
@@ -54,6 +56,11 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       if (sets.length > 0) {
         setDailySets(sets);
         localStorage.setItem('cachedDailySets', JSON.stringify(sets));
+      }
+
+      const summaries = await getParentSummaries();
+      if (summaries.length > 0) {
+        setParentSummaries(summaries);
       }
       setIsLoading(false);
     };
@@ -116,6 +123,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   return (
     <AppContext.Provider value={{ 
       dailySets, 
+      parentSummaries,
       currentSet, 
       progress, 
       isLoading,
